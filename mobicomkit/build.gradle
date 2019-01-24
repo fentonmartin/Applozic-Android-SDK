@@ -1,9 +1,9 @@
 apply plugin: 'com.android.library'
 
 ext {
-    defaultCompileSdkVersion = 27
-    defaultTargetSdkVersion = 27
-    defaultBuildToolVersion = "27.0.3"
+    defaultCompileSdkVersion = 28
+    defaultTargetSdkVersion = 28
+    defaultBuildToolVersion = "28.0.3"
 }
 
 android {
